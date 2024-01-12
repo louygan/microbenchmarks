@@ -3,7 +3,7 @@ package bitset
 import (
 	"testing"
 
-	wb "github.com/willf/bitset"
+	wb "github.com/bits-and-blooms/bitset"
 )
 
 func BenchmarkBigIntRawWrite(b *testing.B) {

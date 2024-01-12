@@ -1,6 +1,6 @@
 package bitset
 
-import wb "github.com/willf/bitset"
+import wb "github.com/bits-and-blooms/bitset"
 
 type BitsetWillf struct {
 	wb.BitSet

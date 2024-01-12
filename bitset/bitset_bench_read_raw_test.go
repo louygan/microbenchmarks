@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	wb "github.com/willf/bitset"
+	wb "github.com/bits-and-blooms/bitset"
 )
 
 func BenchmarkBigIntRawRead(b *testing.B) {
